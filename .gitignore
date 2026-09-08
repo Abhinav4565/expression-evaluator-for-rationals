@@ -4,3 +4,4 @@ cat > .gitignore << 'EOF'
 *.out
 a
 EOFab
+ab
