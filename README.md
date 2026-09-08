@@ -232,22 +232,10 @@ cat Makefile
 
 ---
 
-## 📈 Future Improvements
-
-- Better expression parsing
-- More arithmetic operators
-- Improved error handling
-- More extensive test coverage
-- Additional rational-number operations
-- Improved input validation
-- Better documentation
-- Cross-platform build support
-
----
 
 ## 👨‍💻 Author
 
-**Abhinav Yadav**
+**Abhinav**
 GitHub: [https://github.com/Abhinav4565](https://github.com/Abhinav4565)
 
 ## 📄 License
