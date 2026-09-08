@@ -1,0 +1,6 @@
+cat > .gitignore << 'EOF'
+.DS_Store
+*.exe
+*.out
+a
+EOFab
